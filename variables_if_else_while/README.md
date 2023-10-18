@@ -1,1 +1,1 @@
-Hexadecimal
+Numbers and characters
