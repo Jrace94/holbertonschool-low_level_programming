@@ -23,6 +23,11 @@ int main(void)
 		}
 		if (i % 5 == 0)
 		{
+			if (i == 100)
+			{
+				printf("Buzz");
+				break;
+			}
 			printf("Buzz ");
 			continue;
 		}
