@@ -1,1 +1,1 @@
-Numbers and characters
+Different combinations of two digits
